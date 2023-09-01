@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
 	  <parameter name="browser" value="firefox"/>
-	  <parameter name="url" value="http://www.aksharatraining.com"/>
+	  <parameter name="url" value="https://demo.actitime.com/login.do"/>
 	  <parameter name="timeout" value="10"/>
     <packages>
       <package name="scripts"/>

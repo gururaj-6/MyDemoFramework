@@ -1,3 +1,4 @@
+/*
 package scripts;
 
 import org.testng.Reporter;
@@ -17,3 +18,4 @@ public class TestCase1 extends BaseTest
 		System.out.println("gitHub test");
 	}
 }
+*/
