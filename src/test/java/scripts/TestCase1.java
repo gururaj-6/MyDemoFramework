@@ -14,5 +14,6 @@ public class TestCase1 extends BaseTest
 		String va = Excel.getData("./data/input.xlsx", "TestCase1", 1, 0);
 		Reporter.log("XL : "+va, true);
 		driver.switchTo().activeElement().sendKeys(va);
+		System.out.println("gitHub test");
 	}
 }
